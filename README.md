@@ -1,2 +1,3 @@
 # CapstoneDesign
-CapstoneDesign Project
+CapstoneDesign Project Name : Eclipse
+
